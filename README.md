@@ -10,10 +10,6 @@ A sleek, decentralized journaling app that stores your encrypted entries on the 
 - 🧿 Optional anonymity (no personal data stored)
 - 🖼️ NFT-based access key concept (future upgrade)
 
-## 🖼️ Screenshot
-
-![App Screenshot](https://via.placeholder.com/600x300.png?text=Decentralized+Journal+Preview)
-
 ## 🔧 Tech Stack
 
 - React
@@ -62,10 +58,3 @@ http://localhost:5173
 - [ ] Use smart contracts to register entries
 - [ ] NFT-based journal access system
 - [ ] Add themes & markdown support
-
-## 📄 License
-MIT
-
----
-
-Made with ❤️ for Web3 by Open Source Builders
